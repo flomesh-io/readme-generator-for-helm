@@ -1,4 +1,4 @@
-name: '[CI/CD] Publish Package to npmjs'
+name: '[CI/CD] Publish Image to DockerHub'
 on:
   release:
     types:
